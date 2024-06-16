@@ -1,8 +1,0 @@
-<form (submit)="saveClient()">
-  <label>Nom : <input type="text" [(ngModel)]="client.Client" name="Client" required></label><br>
-  <label>Email : <input type="email" [(ngModel)]="client.MAIL" name="MAIL" required></label><br>
-  <label>Rôle : <input type="text" [(ngModel)]="client.TypeConvention" name="TypeConvention" required></label><br>
-  <label>Débit : <input type="text" [(ngModel)]="client.Debit" name="Debit"></label><br>
-  <label>Numéro de série du modem : <input type="text" [(ngModel)]="client.NumSerieModem" name="NumSerieModem"></label><br>
-  <button type="submit">Enregistrer</button>
-</form>
