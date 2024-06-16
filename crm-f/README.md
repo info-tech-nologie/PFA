@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 # CrmFrontend
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.10.
@@ -27,9 +25,3 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
-=======
-# PFA1
->>>>>>> 798b7b530271eb20ad5b397769136ce8eca80dbf
-=======
-# PFA
->>>>>>> 895521a72a9db00848aab8f617df5639bb32169c
